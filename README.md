@@ -1,6 +1,6 @@
 # Trigger-Warning-Dataset
 
-This repository contains the data used in our research study. 
+This repository contains the data used in our research study.  
 The datasets are structured to enable full reproducibility of our paper's results using the provided IMDb ID references.
 
 ### DoestheDogDie_item.csv  
