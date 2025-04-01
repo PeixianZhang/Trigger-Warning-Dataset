@@ -9,7 +9,7 @@ Enables replication of our analysis by collecting the same items.
 
 ### IMDb_item.csv  
 Contains all items with their corresponding IMDb IDs. 
-The dataset can be recreated using the ID list.
+The dataset can be recreated using the ID list.  
 Provides the foundational dataset for cross-referencing content.  
 
 All results in our paper can be reproduced using:  
