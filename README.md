@@ -8,13 +8,13 @@ Contains all items on Does the Dog Die with their corresponding IMDb IDs.
 Enables replication of our analysis by collecting the same items.
 
 ### IMDb_item.csv  
-Contains all items with their corresponding IMDb IDs. 
+Contains all items with their corresponding IMDb IDs.   
 The dataset can be recreated using the ID list.  
 Provides the foundational dataset for cross-referencing content.  
 
-All results in our paper can be reproduced using:  
-The IMDb ID mappings are provided in these datasets.    
+All results in our paper can be reproduced using:
 The official Does the Dog Die API for additional details when needed.  
+The IMDb ID mappings are provided in these datasets.    
 
 Usage Notes  
 Each record maintains consistent IMDb ID references throughout both files.  
